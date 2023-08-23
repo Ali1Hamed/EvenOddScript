@@ -1,2 +1,2 @@
 # EvenOddScript
-For task 5 in SIC-IoT
+Ammar's Answer For task 5 in SIC-IoT
